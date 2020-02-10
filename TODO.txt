@@ -1,1 +1,3 @@
 [X] 1. Building the example to see how the OpenCV.js work
+[ ] 2. Build a native app and run it on the simulation device. Just go through
+ the tutorial.
