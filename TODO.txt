@@ -1,0 +1,1 @@
+[X] 1. Building the example to see how the OpenCV.js work
